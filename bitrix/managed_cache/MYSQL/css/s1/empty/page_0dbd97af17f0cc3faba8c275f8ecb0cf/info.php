@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/templates/empty/components/bitrix/news.list/calendar/style.css" => "1521020182150",)); ?>

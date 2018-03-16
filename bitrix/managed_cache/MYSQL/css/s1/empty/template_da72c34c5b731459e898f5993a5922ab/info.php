@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/templates/empty/css/main.min.css" => "152110341861095","/bitrix/js/fileman/sticker.css" => "152101495024594",)); ?>
