@@ -5,10 +5,10 @@ if(!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)
 <div id="footer">
         <div class="support">
             <div class="row">
-                <div class="col"><a href="#" target="">Поддержать театр</a></div>
-                <div class="col"><a href="#" target="">Стать спонсором</a></div>
-                <div class="col"><a href="#" target="">Сделать пожертвование</a></div>
-                <div class="col"><a href="#" target="">Реклама в театре</a></div>
+                <div class="col-sm"><a href="#" target="">Поддержать театр</a></div>
+                <div class="col-sm"><a href="#" target="">Стать спонсором</a></div>
+                <div class="col-sm"><a href="#" target="">Сделать пожертвование</a></div>
+                <div class="col-sm"><a href="#" target="">Реклама в театре</a></div>
             </div>
         </div>
         <div class="footer-menu">

@@ -8,6 +8,7 @@ $APPLICATION->SetTitle("Главная");
 			<div class="container">
 				<div class="col-sm-8">
 					<div class="header-composition">
+						 
 						<div class="day-day">
 							 7
 						</div>
@@ -33,9 +34,7 @@ $APPLICATION->SetTitle("Главная");
 								<div class="col-sm-2 period">
 									 8 · 11 августа
 								</div>
-								<div class="col tickets">
  <a href="#">Купить билеты —</a>
-								</div>
 							</div>
 						</div>
 					</div>
@@ -111,6 +110,7 @@ $APPLICATION->SetTitle("Главная");
 		"COMPONENT_TEMPLATE" => "calendar"
 	),
 	false
-);?><?
+);?>
+ <br><?
 require($_SERVER['DOCUMENT_ROOT'].'/bitrix/footer.php');
 ?>

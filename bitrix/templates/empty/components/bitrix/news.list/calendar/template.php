@@ -103,6 +103,10 @@ ksort($arResult['CALENDAR']);
 		z-index: 1;
 	}
 	</style>
+
+
+
+
 <div id="calendar">
 	<div class="header-day-week">
 		<div class="row">

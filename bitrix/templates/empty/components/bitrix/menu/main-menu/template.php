@@ -20,7 +20,7 @@ foreach($arResult as $arItem):
 	<?if($arItem["SELECTED"]):?>
 		<li><a href="<?=$arItem["LINK"]?>"><?=$arItem["TEXT"]?></a></li>
 	<?else:?>
-		<li><a href="<?=$arItem["LINK"]?>"><?=$arItem["TEXT"]?></a></li>
+		<li><a class="eye-icon" href="<?=$arItem["LINK"]?>"><?=$arItem["TEXT"]?></a></li>
 	<?endif?>
 	
 <?endforeach?> 
